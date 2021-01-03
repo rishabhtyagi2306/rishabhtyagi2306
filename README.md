@@ -18,7 +18,7 @@
   <img align="left" alt="Rishabh's CodeChef" width="28px" src="codechef.svg" />
 </a>
 <a href="https://codeforces.com/profile/rishabhtyagi">
-  <img align="left" alt="Rishabh's CodeForces" height = "50px" width="28px" src="Codeforces_logo.svg" />
+  <img align="left" alt="Rishabh's CodeForces" width="28px" src="Codeforces2.svg" />
 </a>
 <a href="https://www.hackerrank.com/rishabhtyagi2306">
   <img align="left" alt="Rishabh's Hackerrank" width="28px" src="hackerrank.svg" />
@@ -35,6 +35,9 @@
 <img align="left" alt="Rishabh's MSSSMS" width="28px" src="microsoft-sql-server.svg" />
 <img align="left" alt="Rishabh's Pycharm" width="28px" src="PyCharm_Logo.svg" />
 
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 
