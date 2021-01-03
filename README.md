@@ -18,13 +18,20 @@
   <img align="left" alt="Rishabh's CodeChef" width="28px" src="codechef.svg" />
 </a>
 <a href="https://codeforces.com/profile/rishabhtyagi">
-  <img align="left" alt="Rishabh's CodeForces" width="28px" src="Codeforces_logo.svg" />
+  <img align="left" alt="Rishabh's CodeForces" height = "28px" width="28px" src="Codeforces_logo.svg" />
 </a>
 <a href="https://www.hackerrank.com/rishabhtyagi2306">
   <img align="left" alt="Rishabh's Hackerrank" width="28px" src="hackerrank.svg" />
 </a>
-
 <br/>
+<br/>
+
+<h4> ✔️ Techs Used by me; </h4>
+<img align="left" alt="Rishabh's C++" width="28px" src="c.svg" />
+<img align="left" alt="Rishabh's Python" height = "28px" width="28px" src="Python-logo.svg" />
+<img align="left" alt="Rishabh's C#" width="28px" src="c--4.svg" />
+<img align="left" alt="Rishabh's asp.net" width="28px" src="asp.svg" />
+
 <br/>
 <br/>
 
