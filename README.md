@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi, I am Rishabh.
+<br/>
+<a href="https://www.linkedin.com/in/rishabh-tyagi-514188190/">
+  <img align="left" alt="Rishabh's Linkdein" width="28px" src="linkedin.svg" />
+</a>
+<a href="https://github.com/rishabhtyagi2306">
+  <img align="left" alt="Rishabh's Github" width="28px" src="github.png" />
+</a>
+<a href="https://www.instagram.com/rishabhtyagi.2306">
+  <img align="left" alt="Rishabh's Instagram" width="28px" src="instagram.svg" />
+</a>
+<a href="https://www.facebook.com/rishabhtyagi.2306">
+  <img align="left" alt="Rishabh's Facebook" width="28px" src="facebook.svg" />
+</a>
 
-<!--
-**rishabhtyagi2306/rishabhtyagi2306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<br/>
+<br/>
 
-Here are some ideas to get you started:
+<a href="https://github.com/rishabhtyagi2306">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhtyagi2306&show_icons=true&theme=gotham&line_height=27" alt="Rishabh's github stats"/>
+<br/>
+<br/>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![Profile views](https://gpvc.arturio.dev/rishabhtyagi2306)
