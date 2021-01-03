@@ -2,20 +2,26 @@
 <h3 align="center">A passionate Backend Developer, Competitive programmer and ML enthusiast !</h3>
 <img src = "Sphere.jpg" style="max-width:100%;"/>
 <br/>
-<h3>- 👨‍💻 Lets Connect - </h3><a href="https://www.linkedin.com/in/rishabh-tyagi-514188190/">
+<h3>⚫ Lets Connect </h3><a href="https://www.linkedin.com/in/rishabh-tyagi-514188190/">
   <img alt="Rishabh's Linkdein" width="28px" src="linkedin.svg" />
 </a>
 <br/>
-<h3>- Have a loot at my work - </h3><a href="https://github.com/rishabhtyagi2306">
+<h3>⚫ I help geeks by writing articles over here</h3><a href="https://auth.geeksforgeeks.org/user/rishabhtyagi2306/articles">
+  <img alt="Rishabh's Geeks for Geeks" width="28px" src="GeeksforGeeks.svg" />
+<br/>
+<h3>⚫ Have a look at my work </h3><a href="https://github.com/rishabhtyagi2306">
   <img alt="Rishabh's Github" width="28px" src="github.png" />
 </a>
 <br/>
-<h3>- Follow me at instagram - </h3><a href="https://www.instagram.com/rishabhtyagi.2306">
-  <img alt="Rishabh's Instagram" width="28px" src="instagram.svg" />
+<h3>⚫ Have a look at my coding profiles</h3>
+<a href="https://www.codechef.com/users/rishabhtyagi2">
+  <img align="left" alt="Rishabh's CodeChef" width="28px" src="codechef.svg" />
 </a>
-<br/>
-###- Don't be shy be my friend ;) -<a href="https://www.facebook.com/rishabhtyagi.2306">
-  <img alt="Rishabh's Facebook" width="28px" src="facebook.svg" />
+<a href="https://codeforces.com/profile/rishabhtyagi">
+  <img align="left" alt="Rishabh's CodeForces" width="28px" src="Codeforces_logo.svg" />
+</a>
+<a href="https://www.hackerrank.com/rishabhtyagi2306">
+  <img align="left" alt="Rishabh's Hackerrank" width="28px" src="hackerrank.svg" />
 </a>
 
 <br/>
