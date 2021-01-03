@@ -1,4 +1,4 @@
-### Hi, I am Rishabh.
+### Hi, I am Rishabh 👋.
 <br/>
 <a href="https://www.linkedin.com/in/rishabh-tyagi-514188190/">
   <img align="left" alt="Rishabh's Linkdein" width="28px" src="linkedin.svg" />
