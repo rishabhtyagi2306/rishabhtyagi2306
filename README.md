@@ -2,8 +2,15 @@
 <h3 align="center">A passionate Backend Developer, Competitive programmer and ML enthusiast !</h3>
 <img src = "Sphere.jpg" style="max-width:100%;"/>
 <br/>
-<h3>⚫ Lets Connect </h3><a href="https://www.linkedin.com/in/rishabh-tyagi-514188190/">
-  <img alt="Rishabh's Linkdein" width="28px" src="linkedin.svg" />
+<h3>⚫ Lets Connect </h3><
+<a href="https://www.linkedin.com/in/rishabh-tyagi-514188190/">
+  <img align="left" alt="Rishabh's Linkdein" width="28px" src="linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/rishabhtyagi.2306">
+  <img align="left" alt="Rishabh's Instagram" width="28px" src="instagram.svg" />
+</a>
+<a href="https://www.facebook.com/rishabhtyagi.2306">
+  <img align="left" alt="Rishabh's Facebook" width="28px" src="facebook.svg" />
 </a>
 <br/>
 <h3>⚫ I help geeks by writing articles over here</h3><a href="https://auth.geeksforgeeks.org/user/rishabhtyagi2306/articles">
@@ -18,7 +25,7 @@
   <img align="left" alt="Rishabh's CodeChef" width="28px" src="codechef.svg" />
 </a>
 <a href="https://codeforces.com/profile/rishabhtyagi">
-  <img align="left" alt="Rishabh's CodeForces" width="28px" src="Codeforces2.svg" />
+  <img align="left" alt="Rishabh's CodeForces" width="28px" src="codeforces2.svg" />
 </a>
 <a href="https://www.hackerrank.com/rishabhtyagi2306">
   <img align="left" alt="Rishabh's Hackerrank" width="28px" src="hackerrank.svg" />
