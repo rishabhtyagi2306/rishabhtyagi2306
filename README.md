@@ -2,15 +2,15 @@
 <h3 align="center">A passionate Backend Developer, Competitive programmer and ML enthusiast !</h3>
 <img src = "Sphere.jpg" style="max-width:100%;"/>
 <br/>
-###- 👨‍💻 Lets Connect - <a href="https://www.linkedin.com/in/rishabh-tyagi-514188190/">
+<h3>- 👨‍💻 Lets Connect - </h3><a href="https://www.linkedin.com/in/rishabh-tyagi-514188190/">
   <img alt="Rishabh's Linkdein" width="28px" src="linkedin.svg" />
 </a>
 <br/>
-###- Have a loot at my work - <a href="https://github.com/rishabhtyagi2306">
+<h3>- Have a loot at my work - </h3><a href="https://github.com/rishabhtyagi2306">
   <img alt="Rishabh's Github" width="28px" src="github.png" />
 </a>
 <br/>
-###- Follow me at instagram - <a href="https://www.instagram.com/rishabhtyagi.2306">
+<h3>- Follow me at instagram - </h3><a href="https://www.instagram.com/rishabhtyagi.2306">
   <img alt="Rishabh's Instagram" width="28px" src="instagram.svg" />
 </a>
 <br/>
