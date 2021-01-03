@@ -1,8 +1,8 @@
 <h1 align="center">Hey there, I'm Rishabh 👋</h1>
 <h3 align="center">A passionate Backend Developer, Competitive programmer and ML enthusiast !</h3>
-<img src = "Sphere.jpg" style="max-width:100%;"/>
+<img src = "Linkedin.png" style="max-width:100%;"/>
 <br/>
-<h3>⚫ Lets Connect </h3><
+<h3>⚫ Lets Connect 🤝</h3><
 <a href="https://www.linkedin.com/in/rishabh-tyagi-514188190/">
   <img align="left" alt="Rishabh's Linkdein" width="28px" src="linkedin.svg" />
 </a>
@@ -13,14 +13,14 @@
   <img align="left" alt="Rishabh's Facebook" width="28px" src="facebook.svg" />
 </a>
 <br/>
-<h3>⚫ I help geeks by writing articles over here</h3><a href="https://auth.geeksforgeeks.org/user/rishabhtyagi2306/articles">
+<h3>⚫ I help geeks by writing articles over here 🤓</h3><a href="https://auth.geeksforgeeks.org/user/rishabhtyagi2306/articles">
   <img alt="Rishabh's Geeks for Geeks" width="28px" src="GeeksforGeeks.svg" />
 <br/>
-<h3>⚫ Have a look at my work </h3><a href="https://github.com/rishabhtyagi2306">
+<h3>⚫ Have a look at my work 👇</h3><a href="https://github.com/rishabhtyagi2306">
   <img alt="Rishabh's Github" width="28px" src="github.png" />
 </a>
 <br/>
-<h3>⚫ Have a look at my coding profiles</h3>
+<h3>⚫ Have a look at my coding profiles 👇</h3>
 <a href="https://www.codechef.com/users/rishabhtyagi2">
   <img align="left" alt="Rishabh's CodeChef" width="28px" src="codechef.svg" />
 </a>
@@ -33,7 +33,7 @@
 <br/>
 <br/>
 
-<h2> ✔️ Techs Used by me; </h2>
+<h2> ✔️ Techs Used by me ;)</h2>
 <img align="left" alt="Rishabh's C++" width="28px" src="c.svg" />
 <img align="left" alt="Rishabh's Python" height = "28px" width="28px" src="Python-logo.svg" />
 <img align="left" alt="Rishabh's C#" width="28px" src="c--4.svg" />
