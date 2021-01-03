@@ -6,11 +6,11 @@
 <a href="https://www.linkedin.com/in/rishabh-tyagi-514188190/">
   <img align="left" alt="Rishabh's Linkdein" width="28px" src="linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/rishabhtyagi.2306">
-  <img align="left" alt="Rishabh's Instagram" width="28px" src="instagram.svg" />
-</a>
 <a href="https://www.facebook.com/rishabhtyagi.2306">
   <img align="left" alt="Rishabh's Facebook" width="28px" src="facebook.svg" />
+</a>
+<a href="https://www.instagram.com/rishabhtyagi.2306">
+  <img align="left" alt="Rishabh's Instagram" width="28px" src="instagram.svg" />
 </a>
 <br/>
 <h3>⚫ I help geeks by writing articles over here 🤓</h3><a href="https://auth.geeksforgeeks.org/user/rishabhtyagi2306/articles">
@@ -33,7 +33,7 @@
 <br/>
 <br/>
 
-<h2> ✔️ Techs Used by me ;)</h2>
+<h2> ✔️ Tools and Techs Used by me ;)</h2>
 <img align="left" alt="Rishabh's C++" width="28px" src="c.svg" />
 <img align="left" alt="Rishabh's Python" height = "28px" width="28px" src="Python-logo.svg" />
 <img align="left" alt="Rishabh's C#" width="28px" src="c--4.svg" />
@@ -41,6 +41,9 @@
 <img align="left" alt="Rishabh's vs" width="28px" src="vs.svg" />
 <img align="left" alt="Rishabh's MSSSMS" width="28px" src="microsoft-sql-server.svg" />
 <img align="left" alt="Rishabh's Pycharm" width="28px" src="PyCharm_Logo.svg" />
+<img align="left" alt="Rishabh's data science" width="28px" src="data-science.svg" />
+<img align="left" alt="Rishabh's HTML" width="28px" src="html5.svg" />
+<img align="left" alt="Rishabh's CSS" width="28px" src="CSS.svg" />
 
 <br/>
 <br/>
