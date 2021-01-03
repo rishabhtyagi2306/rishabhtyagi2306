@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rishabh 👋</h1>
+<h1 align="center">Hey there, I'm Rishabh 👋</h1>
 <h3 align="center">A passionate Backend Developer, Competitive programmer and ML enthusiast !</h3>
 <img src = "Sphere.jpg" style="max-width:100%;"/>
 <br/>
