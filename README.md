@@ -1,4 +1,6 @@
-### Hi, I am Rishabh.
+<h1 align="center">Hi, I'm Rishabh 👋</h1>
+<h3 align="center">A passionate Backend Developer, Competitive programmer and ML enthusiast !</h3>
+<img src = "sphere.jpg" style="max-width:100%;"/>
 <br/>
 <a href="https://www.linkedin.com/in/rishabh-tyagi-514188190/">
   <img align="left" alt="Rishabh's Linkdein" width="28px" src="linkedin.svg" />
